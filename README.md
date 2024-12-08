@@ -1,2 +1,2 @@
 # C-Language
-Journey to Learn My C Language
+Journey to Learn C Language
